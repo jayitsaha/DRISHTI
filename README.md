@@ -31,7 +31,18 @@
 
 <div align="center">
 
-**🚀 Live Demo Coming Soon**
+
+
+<iframe 
+  width="800" 
+  height="450" 
+  src="https://drive.google.com/file/d/1qLLyjXdDv3RZbInyWJF7VJJfRUYhQn-d/preview" 
+  frameborder="0" 
+  allowfullscreen
+  style="border-radius: 15px; box-shadow: 0 20px 60px rgba(138, 43, 226, 0.3); margin: 20px 0;">
+</iframe>
+
+
 *Revolutionary civic engagement at your fingertips*
 
 [📱 Download Beta](https://github.com/jayitsaha/DRISHTI/releases) • [🌐 Web Portal](https://drishti.app) • [📖 Documentation](https://docs.drishti.app)
@@ -548,7 +559,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ╚══════════════════════════════════════╝
 ```
 
-**© 2024 DRISHTI** • *Making every citizen a city guardian*
+**© 2025 DRISHTI** • *Making every citizen a city guardian*
 
 [![Made with Love](https://img.shields.io/badge/Made_with-❤️-FF69B4?style=for-the-badge)](https://github.com/jayitsaha/DRISHTI)
 [![Powered by AI](https://img.shields.io/badge/Powered_by-🤖_AI-00D084?style=for-the-badge)](https://github.com/jayitsaha/DRISHTI)
