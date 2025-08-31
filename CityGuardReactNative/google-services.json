@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629908792550",
+    "project_id": "cityai-8987c",
+    "storage_bucket": "cityai-8987c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629908792550:android:16d35484ccd5d6c0570727",
+        "android_client_info": {
+          "package_name": "com.guardian.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOb36ckOf3Tu3uIvV4IBPOqv7aiamsSfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

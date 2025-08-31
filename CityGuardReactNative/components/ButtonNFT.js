@@ -1,0 +1,62 @@
+import React, {Component} from 'react';
+
+import { TouchableOpacity, Text, Image } from "react-native";
+
+import { COLORS, SIZES, SHADOWS, FONTS } from "../constants_nft";
+
+// Circle Button
+export const CircleButton = ({ imgUrl, handlePress, ...props }) => {
+  return (
+    // Touchable Button
+    <TouchableOpacity
+      style={{
+        width: 40,
+        height: 40,
+        backgroundColor: COLORS.white,
+        position: "absolute",
+        borderRadius: SIZES.extraLarge,
+        alignItems: "center",
+        justifyContent: "center",
+        ...SHADOWS.light,
+        ...props,
+      }}
+      onPress={handlePress}
+    >
+      {/* Button Image */}
+      <Image
+        source={imgUrl}
+        resizeMode="contain"
+        style={{ width: 24, height: 24 }}
+      />
+    </TouchableOpacity>
+  );
+};
+
+// Rectangle Button
+export const RectButton = ({ open, minWidth, fontSize, handlePress, ...props }) => {
+  return (
+    // Button
+    <TouchableOpacity
+      style={{
+        backgroundColor: COLORS.primary,
+        borderRadius: SIZES.extraLarge,
+        minWidth: minWidth,
+        padding: SIZES.small,
+        ...props,
+      }}
+      onPress={handlePress}
+    >
+      {/* Button Text */}
+      <Text
+        style={{
+          fontFamily: FONTS.semiBold,
+          fontSize: fontSize,
+          color: COLORS.white,
+          textAlign: "center",
+        }}
+      >
+        {open}
+      </Text>
+    </TouchableOpacity>
+  );
+};
