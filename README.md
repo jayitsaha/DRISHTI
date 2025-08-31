@@ -33,14 +33,10 @@
 
 
 
-<iframe 
-  width="800" 
-  height="450" 
-  src="https://drive.google.com/file/d/1qLLyjXdDv3RZbInyWJF7VJJfRUYhQn-d/preview" 
-  frameborder="0" 
-  allowfullscreen
-  style="border-radius: 15px; box-shadow: 0 20px 60px rgba(138, 43, 226, 0.3); margin: 20px 0;">
-</iframe>
+<a href="https://drive.google.com/file/d/1qLLyjXdDv3RZbInyWJF7VJJfRUYhQn-d/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/🎥_WATCH_DEMO-Click_to_Play-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" alt="Watch Demo Video" style="margin: 30px;"/>
+</a>
+
 
 
 *Revolutionary civic engagement at your fingertips*
