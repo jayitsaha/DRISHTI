@@ -41,7 +41,7 @@
 
 *Revolutionary civic engagement at your fingertips*
 
-[📱 Download Beta](https://github.com/jayitsaha/DRISHTI/releases) • [🌐 Web Portal](https://drishti.app) • [📖 Documentation](https://docs.drishti.app)
+[📱 Download Beta](https://github.com/jayitsaha/DRISHTI/releases) • [🌐 Web Portal]() • [📖 Documentation](https://docs.drishti.app)
 
 </div>
 
