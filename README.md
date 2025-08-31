@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.ctfassets.net/1wry7ALQy62081v1mJb3iL/6a77d853e34360eab8383e387d55f013/foursquare-logo.svg" alt="Foursquare Logo" width="150" style="filter: brightness(0) invert(1); margin-bottom: 20px;"/>
+<img src="https://res.cloudinary.com/dc4yhakiv/image/upload/v1756666508/drishti1_tpqqqw.png" alt="Foursquare Logo" width="220" style="filter: brightness(0) invert(1); margin-bottom: 8px;"/>
 <h1 style="font-size: 4em; font-weight: bold; color: #8A2BE2; text-shadow: 0 0 15px rgba(138, 43, 226, 0.4);">
 DRISHTI
 </h1>
