@@ -522,7 +522,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/drishti_ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/drishti-ai)
 
-**📧 Contact:** hello@drishti.app  
+**📧 Contact:** jayitsaha@gmail.com  
 **🐛 Bug Reports:** [GitHub Issues](https://github.com/jayitsaha/DRISHTI/issues)  
 **💡 Feature Requests:** [Discussions](https://github.com/jayitsaha/DRISHTI/discussions)
 
@@ -530,19 +530,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🔥 Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-repo/drishti&type=Timeline)](https://star-history.com/#your-repo/drishti&Timeline)
-
-### 🌟 **Join 2,500+ developers building the future of civic tech**
-
-[⭐ **Star this repo**](https://github.com/jayitsaha/DRISHTI) • [👥 **Follow updates**](https://github.com/jayitsaha/DRISHTI/subscription) • [🗨️ **Join discussions**](https://github.com/jayitsaha/DRISHTI/discussions)
-
-</div>
-
----
 
 <div align="center">
 
