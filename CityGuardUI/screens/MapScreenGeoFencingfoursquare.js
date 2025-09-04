@@ -54,7 +54,7 @@ import * as Notifications from 'expo-notifications';
 
 
 // Foursquare API Configuration
-const FOURSQUARE_API_KEY = 'fsq33IomRNg9y+33yeWoBDYszC3kkKYDEysBR3/Wyf8kJC0='; // Replace with your API key
+const FOURSQUARE_API_KEY = 'XXXXXX'; 
 const FOURSQUARE_BASE_URL = 'https://api.foursquare.com/v3';
 const FOURSQUARE_HEADERS = {
   'Accept': 'application/json',
