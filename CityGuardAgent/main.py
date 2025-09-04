@@ -54,11 +54,11 @@ class RealTimeDataCollector(DataCollectorAgent):
     def _setup_real_apis(self):
         """Setup actual API connections"""
         self.api_keys = {
-            "openweather": '4aafd94810b358344d8a345224b16abc',
-            "google_maps": 'AIzaSyBmH2_ZA7jxVWAwTh-fRw9gv1d6MPun9jk',
+            "openweather": 'XXXXXX',
+            "google_maps": 'XXXXXX',
             "twitter_bearer": '',
             # "twitter_bearer":'AAAAAAAAAAAAAAAAAAAAANmy3AEAAAAAa8VmQFcQ3IyB9%2FQGeWP%2F6p4W7Fw%3DJEscEdl0Eo9n0guT6rZyZQqWNTMrG8bgbpeIJAaXs7pdiFjDrt',
-            "newsapi": '0f98877bacea40599ca62b1fbeac9317'
+            "newsapi": 'xxxxxxx'
         }
     
     async def execute_task(self, task: Dict[str, Any]) -> Dict[str, Any]:
